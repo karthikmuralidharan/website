@@ -1,0 +1,1 @@
+{"version":2,"name":"websitr","builds":[{"src":"package.json","use":"@now/static-build"}]}
